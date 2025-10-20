@@ -22,7 +22,7 @@ npm test            # ejecuta pruebas con cobertura
 - Interfaz sencilla con un campo de texto y un botón; muestra temperatura, humedad, descripción y otros datos en español.
 
 ## Covertura
-------------------|---------|----------|---------|---------|-------------------
+
 File              | % Stmts | % Branch | % Funcs | % Lines | Uncovered Line #s 
 ------------------|---------|----------|---------|---------|-------------------
 All files         |   96.29 |    81.81 |     100 |   96.15 |                   
@@ -31,8 +31,10 @@ All files         |   96.29 |    81.81 |     100 |   96.15 |
  components       |      96 |    81.81 |     100 |   95.83 |                   
   WeatherCard.jsx |     100 |       50 |     100 |     100 | 9                 
   WeatherForm.jsx |   95.65 |    88.88 |     100 |   95.45 | 35                
-------------------|---------|----------|---------|---------|-------------------
+
+```
 Test Suites: 1 passed, 1 total
 Tests:       5 passed, 5 total
 Snapshots:   0 total
 Time:        2.45 s
+```
